@@ -1,3 +1,0 @@
-101,lalit,1
-102,yash,2
-104,mayank,1
