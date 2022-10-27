@@ -6,5 +6,5 @@ This project aims to create and develop the Employee Bus Route Management System
 
 
 # Conclusion!
-The purpose of this application is to provide the effective usage of the employee bus route system.And the employees and management can easily access the data without any ambiguity![image](https://user-images.githubusercontent.com/68817256/198262284-e69cbafe-a183-4cce-b2a1-c1b09e4fe229.png)
+The purpose of this application is to provide the effective usage of the employee bus route system.And the employees and management can easily access the data without any ambiguity!
 
